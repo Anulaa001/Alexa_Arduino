@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include "fauxmoESP.h"
 
-#define ssid "baltic mobile"
-#define pass "05dana09"
+#define ssid "network name"
+#define pass "password"
 
 #define device1 "bedroom light"
 
